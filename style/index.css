@@ -1,6 +1,6 @@
 /*Header*/
 .hero{
-    background-image: linear-gradient(-225deg, rgba(231, 149, 149, 0.20) 0%, rgba(158, 144, 165, 0.20) 48%, rgba(102, 84, 241, 0.20) 100%),  url("../resources/img02.jfif");
+    background-image: linear-gradient(-225deg, rgba(231, 149, 149, 0.20) 0%, rgba(158, 144, 165, 0.20) 48%, rgba(102, 84, 241, 0.20) 100%),  url("../resources/img05.jpg");
     width: 100%;
     height: 60em;
     background-repeat: no-repeat;
