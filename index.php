@@ -20,7 +20,7 @@
         <div class="textos-hero">
             <h1>Curses and sweet lies</h1>
             <p>Una nueva era se acerca, el bien y el mal se encuentran, una forma de derrotarlo es ...</p>
-            <a href="#hrefComunidad" class="btn btn-warning" role="button">Conoce más</a>
+            <a href="#hrefSpringBoy" class="btn btn-warning" role="button">Conoce más</a>
         </div>
 
         <div class="svg-hero" style="height: 150px; overflow: hidden;" >
@@ -31,18 +31,18 @@
     </header>
     
     <div class="container-fluid container">
-        <div class="contenedor last-section" id="hrefComunidad">
+        <div class="contenedor last-section" id="hrefSpringBoy">
             <img src="./resources/D.png" alt="comunidad" class="profile">
             <div class="contenedor-textos-main">
                 <h2 class="titulo left">Spring Boy #D</h2>
                 <p class="parrafo">Equipado para la guerra, puro personaje, demostrando a mi país que somos los más leales.</p>
-                <a href="#hrefInfo" class="btn btn-warning cta" role="button">Siguiente</a>
+                <a href="#hrefStrangeHuman" class="btn btn-warning cta" role="button">Siguiente</a>
             </div>
         </div>
     </div>
 
     <div class="container-fluid container">
-        <div class="contenedor last-section" id="hrefComunidad">
+        <div class="contenedor last-section" id="hrefStrangeHuman">
             <div class="contenedor-textos-main">
                 <h2 class="titulo left">Strange Human #N</h2>
                 <p class="parrafo">Odian a los villanos, sin saber realmente que es lo que los mueve a hacer tales acciones.</p>
@@ -54,14 +54,14 @@
 
     <section class="info" id="hrefInfo">
         <div class="contenedor container-fluid container">
-            <h2 class="titulo left">Información</h2>
-            <p class="parrafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <a href="#hrefUsuarios" class="btn btn-outline-light cta" role="button">Aceptar</a>
+            <h2 class="titulo left">Sinopsis</h2>
+            <p class="parrafo">Nikolas Arsenyev, un militar ruso de alto grado crea una gran alianza con cuba para realizar un gran plan de destruccion masiva de los EU, el plan de el Nikolas es enviar una maquina propagadora de una enfermedad que se traspasa por el suelo, corrompiendo todo a su paso, pero planea enviarlas a lugares estrategicos y abandonados para que cuando el gobierno estadounidense descubra cual es el plan sea muy tarde acabar con las maquinas y con Nikolas.</p>
+            <a href="#hrefSocialMedia" class="btn btn-outline-light cta" role="button">Aceptar</a>
         </div>
     </section>
 
     <div class="container-fluid container">
-        <section class="cards contenedor" id="hrefUsuarios">
+        <section class="cards contenedor" id="hrefSocialMedia">
             <h2 class="titulo">Redes sociales</h2>
             <div class="content-cards">
                 <article class="card">
